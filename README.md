@@ -1,6 +1,7 @@
 ## Guinea Greens
 
 This is a work in progress for a mobile application that grants user a simple and accessible way to track their guinea pig's diet and learn more about their pet's needs in terms of diet, hygiene, and more. 
+React Native and Expo is being used for the application. 
 
 # Features to be added: 
 -	Search any fruit or vegetable to see if it is safe for guinea pigs and what the recommended quantity is.
