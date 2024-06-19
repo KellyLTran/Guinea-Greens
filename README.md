@@ -1,50 +1,18 @@
-# Welcome to your Expo app 👋
+# Guinea Greens
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a work in progress for a mobile application that grants user a simple and accessible way to track their guinea pig's diet and learn more about their pet's needs in terms of diet, hygiene, and more. 
 
-## Get started
+Features to be added: 
+•	Search any fruit or vegetable to see if it is safe for guinea pigs and what the recommended quantity is.
+•	Schedule and track daily feeding times and portions along with the guinea pig's weight.
+•	Guinea pig’s diet requirements/information, such as how much vitamin C and fresh greens are needed.
+•	Other Guinea pig fun facts and interactive implementations to make learning fun, such as using icons or animations.
+•	Cute pictures or icons of guinea pigs to create a user-friendly, pretty application.
 
-1. Install dependencies
+Benefits of the application:
+•	Educates owners on the nutritional needs of guinea pigs, which encourages more attentive care and responsibility, especially if the owner is a first-time guinea pig owner.
+•	Ensures guinea pigs receive a proper diet, which prevents health problems, such as scurvy, since they are sensitive creatures who lack some basic bodily functions.
+•	Convenience for owners to easily access information, organize their schedule, and receive reminders for feeding times along with alerts when food supplies are low.
+•	Could inspire others to take better care of pets in general and spread awareness about the importance of fulfilling pets’ diet needs.
+•	Can potentially be further developed into an app that includes a variety of different animals.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
