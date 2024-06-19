@@ -8,6 +8,7 @@ import { useColorScheme } from '@/hooks/useColorScheme';
 export default function TabLayout() {
   const colorScheme = useColorScheme();
 
+  // Create a tab for each different screen 
   return (
     <Tabs
       screenOptions={{
@@ -24,14 +25,32 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="search"
         options={{
-          title: 'Explore',
+          title: 'Search',
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'code-slash' : 'code-slash-outline'} color={color} />
           ),
         }}
-      />
+          />
+          <Tabs.Screen
+              name="schedule"
+              options={{
+                  title: 'Schedule',
+                  tabBarIcon: ({ color, focused }) => (
+                      <TabBarIcon name={focused ? 'code-slash' : 'code-slash-outline'} color={color} />
+                  ),
+              }}
+          />
+          <Tabs.Screen
+              name="information"
+              options={{
+                  title: 'Information',
+                  tabBarIcon: ({ color, focused }) => (
+                      <TabBarIcon name={focused ? 'code-slash' : 'code-slash-outline'} color={color} />
+                  ),
+              }}
+          />
     </Tabs>
   );
 }
