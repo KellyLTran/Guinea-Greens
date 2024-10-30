@@ -1,6 +1,7 @@
 # 🌱 Guinea Greens
 
-**Guinea Greens** is a mobile application in development, designed to provide guinea pig owners with an easy-to-use platform to monitor and improve their pet's diet and overall care. Built with React Native and Expo, the app offers an accessible way to track daily routines and stay informed on essential pet care.
+**Guinea Greens** is a mobile application in development, designed to provide guinea pig owners with an easy-to-use platform to monitor and improve their pet's diet and overall care. 
+Built with React Native and Expo, the app offers an accessible way to track daily routines and stay informed on essential pet care.
 
 ### 🛠 Planned Features
 - 🍏 **Safe Food Search**: Quickly check if specific fruits or vegetables are safe for guinea pigs, with recommended portion sizes.
